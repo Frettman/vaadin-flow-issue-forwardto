@@ -1,0 +1,18 @@
+target/
+
+### STS ###
+.apt_generated
+.apt_generated_tests
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Vaadin ###
+*.generated.js
+.npmrc
+node_modules/
+frontend/generated/
+pnpmfile.js
